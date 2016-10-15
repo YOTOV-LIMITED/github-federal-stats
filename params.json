@@ -1,0 +1,6 @@
+{
+  "name": "GitHub-federal-stats",
+  "tagline": "Bash scripts to generate metrics on U.S. Federal usage of GitHub using the GitHub APIs",
+  "body": "# github-federal-stats\r\nBash scripts to generate metrics on U.S. Federal usage of GitHub using the GitHub APIs\r\n\r\nSee http://gsa.github.io/github-federal-stats/index.html for the latest output.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
